@@ -1,4 +1,4 @@
-# Drone-Aruco-PID-Autonavigate
+# Tello-Horizontal-Autonomous-Navigation-PID
 
 An autonomous drone navigation system using ArUco markers and PID control, implemented on a Raspberry Pi Zero 2W.
 
@@ -98,7 +98,7 @@ The system is configured through `config.py`. Key parameters include:
 ## Project Structure
 
 ```
-Drone-Aruco-PID-Autonavigate/
+Tello-Horizontal-Autonomous-Navigation-PID/
 ├── src/
 │   ├── main.py              # Main program entry point
 │   ├── bluetooth_handler.py # Bluetooth communication
