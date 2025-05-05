@@ -1,0 +1,8 @@
+av==8.0.0
+djitellopy==2.5.0
+numpy==1.26.4
+opencv-contrib-python==4.5.3.56
+opencv-python-headless==4.5.3.56
+pillow==10.3.0
+PyBluez==0.23
+simple-pid==2.0.0 
